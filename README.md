@@ -1,5 +1,6 @@
 # shortwave-killchrome-arcfix
 This script kills chrome after you open shortwave if you are not using chrome as a default browser.
+
 Step 1: Replace your name/the correct path where the stars are in the script
 Step 2: Use automator and make an application that runs this script
 Step 3: Pin to dock
